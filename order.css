@@ -1,0 +1,77 @@
+/* General Styles */
+.order {
+    padding: 40px 0;
+    background: #f9f9f9;
+}
+
+.order h2 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 36px;
+    color: #232f3e;
+}
+
+.order-form {
+    max-width: 800px;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.order-form fieldset {
+    border: none;
+    margin-bottom: 20px;
+}
+
+.order-form legend {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #232f3e;
+}
+
+.order-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
+.order-form input,
+.order-form select,
+.order-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.order-form textarea {
+    resize: vertical;
+}
+
+.order-form button {
+    background: #ff9900;
+    color: #fff;
+    padding: 15px 30px;
+    border-radius: 5px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+}
+
+.order-form button:hover {
+    background: #e68a00;
+}
+
+.social-media img {
+    vertical-align: middle;
+    height: 24px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
